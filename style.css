@@ -7,11 +7,12 @@ font-size: 80px;
 
 body{
 
-    background-color: aqua;
-    display:flex;
+    background-color: rgb(216, 255, 255);
+
+    
 }
 
-#buttons{
+.buttons{
 
 display:flex;
 justify-content: center;
