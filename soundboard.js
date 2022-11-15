@@ -1,4 +1,4 @@
-const chim = new Audio();
+const chime = new Audio();
 
-chim.src= "chim.wav";
+chime.src= "chime.wav";
 
