@@ -21,11 +21,12 @@ justify-content: center;
 
 button{
 
-width:200px;
-height: 100px;
+width:100px;
+height: 80px;
 border-width: 5px;
-border-radius: 20px;
+border-radius: 50px;
 font-family: fantasy;
 font-weight: bold;
+background-color: rgb(255, 223, 163);
 
 }
